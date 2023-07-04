@@ -17,7 +17,7 @@ import gif9 from "./gifs/9.gif";
 import gif10 from "./gifs/10.gif";
 
 function App() {
-  const [play] = useSound(me, { value: 0.1, playbackRate: 1.3 });
+  const [play] = useSound(me, { value: 0.01, playbackRate: 1.3 });
   useEffect(play, [play]);
   const gifs = [gif1, gif2, gif3, gif4, gif5, gif6, gif7, gif8, gif9, gif10];
   const gif = useMemo(() => gifs[~~(Math.random() * 10)], []);
