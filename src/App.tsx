@@ -15,12 +15,49 @@ import gif7 from "./gifs/7.gif";
 import gif8 from "./gifs/8.gif";
 import gif9 from "./gifs/9.gif";
 import gif10 from "./gifs/10.gif";
+import gif11 from "./gifs/11.gif";
+import gif12 from "./gifs/12.gif";
+import gif13 from "./gifs/13.gif";
+import gif14 from "./gifs/14.gif";
+import gif15 from "./gifs/15.gif";
+import gif16 from "./gifs/16.gif";
+import gif17 from "./gifs/17.gif";
+import gif18 from "./gifs/18.gif";
+import gif19 from "./gifs/19.gif";
+import gif20 from "./gifs/20.gif";
+import gif21 from "./gifs/21.gif";
 
 function App() {
-  const [play] = useSound(me, { value: 0.01, playbackRate: 1.3 });
+  const [play] = useSound(me, { playbackRate: 1.3 });
   useEffect(play, [play]);
-  const gifs = [gif1, gif2, gif3, gif4, gif5, gif6, gif7, gif8, gif9, gif10];
-  const gif = useMemo(() => gifs[~~(Math.random() * 10)], []);
+
+  const gifs = [
+    gif1,
+    gif2,
+    gif3,
+    gif4,
+    gif5,
+    gif6,
+    gif7,
+    gif8,
+    gif9,
+    gif10,
+    gif11,
+    gif12,
+    gif13,
+    gif14,
+    gif15,
+    gif16,
+    gif17,
+    gif18,
+    gif19,
+    gif20,
+    gif21,
+  ];
+  const gif = useMemo(
+    () => gifs[Math.floor(Math.random() * (1 - 21 + 1) + 21)],
+    []
+  );
 
   const BANrules: string[] = [
     "Расчлененку",
@@ -41,6 +78,8 @@ function App() {
     "Тупить чаще 1 раза в 30 минут",
     "Чересчур умничать запрещено",
     "Голосовухи от саня мыловар короче 3х секунд запрещены",
+    "Мой любимый видеоблоггер мастурбист",
+    "не упоминать петра первого если ты https://t.me/shvambrania",
   ];
 
   return (
