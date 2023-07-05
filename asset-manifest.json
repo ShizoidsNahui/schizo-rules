@@ -1,26 +1,37 @@
 {
   "files": {
-    "main.css": "/schizo-rules/static/css/main.ce98fea3.css",
-    "main.js": "/schizo-rules/static/js/main.9280181c.js",
+    "main.css": "/schizo-rules/static/css/main.86e468e3.css",
+    "main.js": "/schizo-rules/static/js/main.3e01cc35.js",
     "static/js/845.8dda20c3.chunk.js": "/schizo-rules/static/js/845.8dda20c3.chunk.js",
-    "static/media/EGGMAN.mp3": "/schizo-rules/static/media/EGGMAN.a735ac87aa756865d844.mp3",
+    "static/media/19.gif": "/schizo-rules/static/media/19.7b8db79e3b679ff3cdbf.gif",
     "static/media/1.gif": "/schizo-rules/static/media/1.3d2f8314b9ba29032740.gif",
+    "static/media/EGGMAN.mp3": "/schizo-rules/static/media/EGGMAN.527f7ed869fe3d8b2c0f.mp3",
     "static/media/10.gif": "/schizo-rules/static/media/10.aa0f9deec7f1b78e6195.gif",
+    "static/media/14.gif": "/schizo-rules/static/media/14.9bba5890635d682c7b58.gif",
+    "static/media/16.gif": "/schizo-rules/static/media/16.0dc4127386f2bf5eb208.gif",
     "static/media/4.gif": "/schizo-rules/static/media/4.f1a53ece8945ad1fdb82.gif",
     "static/media/5.gif": "/schizo-rules/static/media/5.f2036e0ceb79fce49619.gif",
+    "static/media/17.gif": "/schizo-rules/static/media/17.57bc05c17596deceff4d.gif",
     "static/media/6.gif": "/schizo-rules/static/media/6.80072427cec333fdc6ea.gif",
+    "static/media/21.gif": "/schizo-rules/static/media/21.3e803b92729a47f7db83.gif",
+    "static/media/20.gif": "/schizo-rules/static/media/20.4f1a5cd08ff55152fcaf.gif",
+    "static/media/12.gif": "/schizo-rules/static/media/12.a9c40862998e85427ef9.gif",
+    "static/media/18.gif": "/schizo-rules/static/media/18.42a1af58e3e547b1eb2b.gif",
+    "static/media/15.gif": "/schizo-rules/static/media/15.ccbc6d3203a6a03f8e56.gif",
     "static/media/2.gif": "/schizo-rules/static/media/2.473c3854ff8a90bd0a18.gif",
     "static/media/8.gif": "/schizo-rules/static/media/8.afefa2327476e0622411.gif",
+    "static/media/11.gif": "/schizo-rules/static/media/11.5a68c3a33eaa0f357df8.gif",
     "static/media/9.gif": "/schizo-rules/static/media/9.39a18a0af0c32e3bc0a9.gif",
+    "static/media/13.gif": "/schizo-rules/static/media/13.646721ffe52639deac5b.gif",
     "static/media/7.gif": "/schizo-rules/static/media/7.a3b845c137f945364189.gif",
     "static/media/3.gif": "/schizo-rules/static/media/3.37869c3c7365ec8c379e.gif",
     "index.html": "/schizo-rules/index.html",
-    "main.ce98fea3.css.map": "/schizo-rules/static/css/main.ce98fea3.css.map",
-    "main.9280181c.js.map": "/schizo-rules/static/js/main.9280181c.js.map",
+    "main.86e468e3.css.map": "/schizo-rules/static/css/main.86e468e3.css.map",
+    "main.3e01cc35.js.map": "/schizo-rules/static/js/main.3e01cc35.js.map",
     "845.8dda20c3.chunk.js.map": "/schizo-rules/static/js/845.8dda20c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce98fea3.css",
-    "static/js/main.9280181c.js"
+    "static/css/main.86e468e3.css",
+    "static/js/main.3e01cc35.js"
   ]
 }
