@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/schizo-rules/static/css/main.86e468e3.css",
-    "main.js": "/schizo-rules/static/js/main.b2b09178.js",
+    "main.js": "/schizo-rules/static/js/main.cb044263.js",
     "static/js/845.8dda20c3.chunk.js": "/schizo-rules/static/js/845.8dda20c3.chunk.js",
     "static/media/19.gif": "/schizo-rules/static/media/19.7b8db79e3b679ff3cdbf.gif",
     "static/media/1.gif": "/schizo-rules/static/media/1.3d2f8314b9ba29032740.gif",
@@ -27,11 +27,11 @@
     "static/media/3.gif": "/schizo-rules/static/media/3.37869c3c7365ec8c379e.gif",
     "index.html": "/schizo-rules/index.html",
     "main.86e468e3.css.map": "/schizo-rules/static/css/main.86e468e3.css.map",
-    "main.b2b09178.js.map": "/schizo-rules/static/js/main.b2b09178.js.map",
+    "main.cb044263.js.map": "/schizo-rules/static/js/main.cb044263.js.map",
     "845.8dda20c3.chunk.js.map": "/schizo-rules/static/js/845.8dda20c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86e468e3.css",
-    "static/js/main.b2b09178.js"
+    "static/js/main.cb044263.js"
   ]
 }
